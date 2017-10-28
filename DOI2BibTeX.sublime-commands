@@ -1,0 +1,6 @@
+[
+	{
+		"caption" : "DOI2BibTeX",
+		"command" : "doi_to_bibtex"
+	}
+]
